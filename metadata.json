@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Remix: AI Video \u0026 Audio Subtitle Generator",
+  "description": "កម្មវិធីបកប្រែភាសាវីដេអូ/សំឡេង និងបង្កើតឯកសារ SRT ដោយស្វ័យប្រវត្តិក្នុងពេលវេលាជាក់ស្តែង (AI Video/Audio to SRT Translator)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
